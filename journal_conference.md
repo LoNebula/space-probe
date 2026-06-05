@@ -4,6 +4,7 @@
   - [site](https://arc.aiaa.org/loi/jsr)
 
 - Acta Astronautica (IAA)
+  - [site](https://www.sciencedirect.com/journal/acta-astronautica)
 
 - IEEE Transactions on Aerospace and Electronic Systems
 
