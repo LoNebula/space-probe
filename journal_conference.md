@@ -22,3 +22,6 @@
 
 - IEEE Aerospace Conference
   - [site](https://www.aeroconf.org/)
+
+- AIAA Guidance, Navigation, and Control Conference
+  - [site](https://www.aiaa.org/events-learning/event/2024/06/17/default-calendar/aiaa-guidance-navigation-and-control-conference)
