@@ -15,5 +15,6 @@
   - [site](https://www.iafastro.org/)
 
 - AIAA SciTech Forum / AIAA SPACE
+  - [site](https://scitech.aiaa.org/)
 
 - IEEE Aerospace Conference
