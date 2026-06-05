@@ -1,6 +1,7 @@
 # Journal
 
 - Journal of Spacecraft and Rockets (AIAA)
+  - [site](https://arc.aiaa.org/loi/jsr)
 
 - Acta Astronautica (IAA)
 
