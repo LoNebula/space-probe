@@ -7,10 +7,12 @@
   - [site](https://www.sciencedirect.com/journal/acta-astronautica)
 
 - IEEE Transactions on Aerospace and Electronic Systems
+  - [site](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
 
 # Conference
 
 - IAC（International Astronautical Congress）
+  - [site](https://www.iafastro.org/)
 
 - AIAA SciTech Forum / AIAA SPACE
 
