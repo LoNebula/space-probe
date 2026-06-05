@@ -18,3 +18,4 @@
   - [site](https://scitech.aiaa.org/)
 
 - IEEE Aerospace Conference
+  - [site](https://www.aeroconf.org/)
