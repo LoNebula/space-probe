@@ -3,6 +3,9 @@
 - Journal of Spacecraft and Rockets (AIAA)
   - [site](https://arc.aiaa.org/loi/jsr)
 
+- Journal of Guidance, Control, and Dynamics (AIAA)
+  - [site](https://arc.aiaa.org/loi/jgcd)
+
 - Acta Astronautica (IAA)
   - [site](https://www.sciencedirect.com/journal/acta-astronautica)
 
